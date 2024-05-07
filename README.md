@@ -1,4 +1,3 @@
-# aerlytix-website-test
-Development testing website
+# Aerlytix Website V2
 
-This is the future Aerlytix and rebranded website to go on 2022
+Aerlytix website was developed using 11ty.dev for its marketing and blogging platform. Published in Netlify.com
